@@ -18,4 +18,13 @@ javascript:(function(){var h=function(s){var r='',d1='がぎぐげござじず�
 
 ## 実行例
 
-あとで記述.
+大橋彩香公式サイト http://ohashiayaka.com/wf/profile より
+
+![実行例1](https://raw.githubusercontent.com/kotarot/hegochin-bookmarklet/master/assets/ohashiayaka-example-1.png)
+
+◎ 続きが気になるぅぅぅうう。｜大橋彩香オフィシャルブログ「声がでかくてすいません。」Powered by Ameba http://ameblo.jp/ohashiayaka/entry-12040473651.html より
+
+![実行例2](https://raw.githubusercontent.com/kotarot/hegochin-bookmarklet/master/assets/ohashiayaka-example-2.png)
+![実行例3](https://raw.githubusercontent.com/kotarot/hegochin-bookmarklet/master/assets/ohashiayaka-example-3.png)
+![実行例4](https://raw.githubusercontent.com/kotarot/hegochin-bookmarklet/master/assets/ohashiayaka-example-4.png)
+![実行例5](https://raw.githubusercontent.com/kotarot/hegochin-bookmarklet/master/assets/ohashiayaka-example-5.png)
